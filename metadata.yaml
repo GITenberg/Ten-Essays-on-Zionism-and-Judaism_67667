@@ -1,0 +1,66 @@
+_repo: Ten-Essays-on-Zionism-and-Judaism_67667
+_version: 0.0.1
+alternative_title:
+- '''Al parashat derakhim. English'
+- 10 Essays on Zionism and Judaism
+contributor:
+  translator:
+    agent_name: Simon, Leon
+    aliases:
+    - Simon, A. (Aryeh)
+    - Saimon, Aryeh-Le'on
+    - סימון, אריה
+    - Simon, Aryeh
+    birthdate: 1881
+    deathdate: 1965
+    gutenberg_agent_id: '54386'
+    url: http://www.gutenberg.org/2009/agents/54386
+    wikipedia:
+    - https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%99%D7%94_(%D7%9C%D7%90%D7%95%D7%9F)_%D7%A1%D7%99%D7%9E%D7%95%D7%9F
+    - https://en.wikipedia.org/wiki/Leon_Simon_(Zionist)
+creator:
+  author:
+    agent_name: Ahad Ha'am
+    aliases:
+    - Ha-Am, Achad
+    - Ha'am, Ahad
+    - Ginzberg, Asher
+    - אחד העם
+    - Ginsberg, Asher Hirsch
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '54385'
+    url: http://www.gutenberg.org/2009/agents/54385
+    wikipedia:
+    - https://he.wikipedia.org/wiki/%D7%90%D7%97%D7%93_%D7%94%D7%A2%D7%9D
+    - https://en.wikipedia.org/wiki/Ahad_Ha%27am
+description: ''
+gutenberg_issued: '2022-03-20'
+identifiers:
+  gutenberg: '67667'
+  lccn: '28028801'
+language: en
+pgterms:marc904: https://archive.org/details/tenessaysonzioni00ahad
+pgterms:marc905: 20200227143224achad
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Richard Hulse, David King, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net. (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :George Routledge & Sons,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zionism'
+- !lcc 'DS'
+- !lcsh 'Judaism'
+- !lcsh 'Jews -- Restoration'
+- GITenberg
+tableOfContents: The wrong way (1889) -- The first Zionist Congress (1897) -- The
+  Jewish State and the Jewish problem (1897) -- Pinsker and political Zionism (1902)
+  -- The time has come (1906) -- "When Messiah comes" (1907) -- A spiritual centre
+  (1907) -- Summa summarum (1912) -- The supremacy of reason (1904) -- Judaism and
+  the Gospels (1910).
+title: Ten Essays on Zionism and Judaism
+url: http://www.gutenberg.org/ebooks/67667
